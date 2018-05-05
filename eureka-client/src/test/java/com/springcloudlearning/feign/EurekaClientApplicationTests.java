@@ -1,4 +1,4 @@
-package com.springcloudlearning.eurekaclient;
+package com.springcloudlearning.feign;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
